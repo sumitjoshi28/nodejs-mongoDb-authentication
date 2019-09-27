@@ -1,0 +1,22 @@
+{
+  "name": "nodemongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sumit",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.0",
+    "express-session": "^1.16.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.5.10",
+    "nodemailer": "^6.1.1",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "shortid": "^2.2.14"
+  }
+}
